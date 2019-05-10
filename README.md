@@ -12,3 +12,8 @@ ML Study
 1. 매주 **Coursera 강의 2개** 듣고 실습 (필수)
 > [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 2. 개별 challenge 참여 (선택)
+
+
+
+--------------
+### 5월 2주차 연습스터디 (2019.5.12 4:00 ~ 6:00)
